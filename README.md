@@ -1,8 +1,8 @@
 # ENG2 - Padrões
 
-# Vídeo sobre a parte Teorica
+#### Vídeo sobre a parte Teorica
 
- <a href="https://www.youtube.com/watch?v=5GQm9bB5Qh4">Typescript</a> &nbsp;
+ <a href="https://www.youtube.com/watch?v=5GQm9bB5Qh4">Assistir Vídeo: Clique aqui</a> &nbsp;
 
 # Estudo sobre o padrão estrututal Adapter
 
@@ -15,6 +15,7 @@
  Validator
 
  <a href="https://nodejs.dev/">Node</a> &nbsp;
+ <br>
  <a href="https://www.typescriptlang.org/">Typescript</a> &nbsp;
 
  ## Instalação do Projeto
