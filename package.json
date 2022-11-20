@@ -1,0 +1,18 @@
+{
+  "name": "design-patters-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.3",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "@types/validator": "^13.7.10"
+  }
+}
