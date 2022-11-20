@@ -57,7 +57,7 @@ npm i -D @types/validator
  <img width="730" alt="image" src="https://user-images.githubusercontent.com/70846896/202922795-1e65cadc-3ab4-4770-aa0a-17d5d7e547b0.png">
 
 Aqui eu "tenho" um codigo perfeitamente funcional... no caso ele vai validar se meu e-mail é válido ou inválido.
-Esse é um código perfeitamente natural, e agente tende a utilizar isso nos nossos por exemplo mvp's criamos varios programas aonde fizemos isso diretamente sem se preocupar se o validator vai algum dia parar ou não de funcionar, mas oque acontece em um software sério e grande podemos ter varios locais aonde eu precise checar e-mail's mas o problema é que se algum dia eu precisar trocar o validator por outra biblioteca que faz validação de e-mail vamos supor que a outra biblioteca é mais rapida que o validator por exemplo parou de ser atualizado então em todos os locais aonde eu ultilizei o validator ou testei algum código que ultiliza o validator vamos ter problemas então o adapter vai solucionar esse problema.
+Esse é um código perfeitamente natural, e agente tende a utilizar isso. Por exemplo os mvp's criamos varios programas aonde fizemos isso diretamente sem se preocupar se o validator vai algum dia parar ou não de funcionar, mas oque acontece em um software sério e grande podemos ter varios locais aonde eu precise checar e-mail's mas o problema é que se algum dia eu precisar trocar o validator por outra biblioteca que faz validação de e-mail vamos supor que a outra biblioteca é mais rapida que o validator por exemplo parou de ser atualizado então em todos os locais aonde eu ultilizei o validator ou testei algum código que ultiliza o validator vamos ter problemas então o adapter vai solucionar esse problema.
 
  ## Executando a aplicação
 
