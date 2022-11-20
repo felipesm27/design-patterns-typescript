@@ -21,17 +21,32 @@
  ## Instalação do Projeto
 
 Crie o packege.json
+<br>
+<br>
 npm init
 <br>
+<br>
 Instalar TypeScript
+<br>
+<br>
 npm install typescript
 <br>
+<br>
 Iniciar configurações do typescript 
+<br>
+<br>
 npx tsc --init
+<br>
+<br>
 Desta forma ira criar o tsconfig.json que é responsavel pelas configurações typescript.
 <br>
+<br>
 Instalando o validator
+<br>
+<br>
 npm i validator
+<br>
+<br>
 npm i -D @types/validator
 
  ## Exemplo
