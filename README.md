@@ -10,9 +10,13 @@
 
  ## ��� Pré requisitos
 
- Node 
- Typescript
- Validator
+ * Node
+ <br>
+ <br>
+ * Typescript
+ <br>
+ <br>
+ * Validator
 
  <a href="https://nodejs.dev/">Node</a> &nbsp;
  <br>
